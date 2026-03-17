@@ -2,7 +2,7 @@
 
 I help people and mission-driven organizations get unstuck. If you believe technology should serve people, not extract from them, we're probably like-minded.
 
-I'm a multispecialist: analyst, consultant, developer, instructor, author. My foundation is electrical engineering, carried across software development, strategy, and teaching. I'm a connector by nature: I help organizations find their footing in open source, and I help people find communities where they can grow.
+I'm a multi-specialist. My foundation is electrical engineering, but I've carried that systems thinking across software development, strategy, and teaching. Titles I have had include analyst, consultant, developer, instructor, and author. I'm a connector by nature: I help people find communities where they can grow, and I help organizations find the tools, software, and solutions that meet their needs and mission.
 
 **Desk Ready** ([deskready.com](http://www.deskready.com)) is where I work with nonprofits and small businesses doing meaningful work in their communities. I help them make sense of disconnected tools, outdated systems, and subscriptions that erode budget and control. I've guided nonprofit leaders through technology strategy: privacy, security, and what it actually means to protect the people behind their data.
 
