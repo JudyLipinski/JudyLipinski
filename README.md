@@ -32,7 +32,11 @@ I approach technology through a harm reduction lens: honest assessment over sale
 
 ## 🤝 How to Work With Me
 
-I work with nonprofits, small businesses, and teams whose mission comes first. Tech strategy, simplification, open source migration, training, building. Whether you need a full engagement or a clear-eyed conversation about where to start, reach out.
+I work with nonprofits, small businesses, and teams whose mission comes first. 
+
+Tech strategy, simplification, open source migration, training, building. 
+
+Whether you need a full engagement or a clear-eyed conversation about where to start, reach out.
 
 📬 [judy@deskready.com](mailto:judy@deskready.com)
 🌐 [deskready.com](http://www.deskready.com)
